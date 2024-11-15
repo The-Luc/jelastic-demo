@@ -49,5 +49,5 @@ app.delete("/items/:id", async (req, res) => {
 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
-  console.log("Check me");
+  console.log("Check me 2");
 });
